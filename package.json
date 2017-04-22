@@ -1,0 +1,17 @@
+{
+    "name"         : "alice-helpers",
+    "version"      : "0.0.1",
+    "description"  : "Tiny helpers library for writing build scripts.",
+    "main"         : "index.js",
+    "repository"   : "aliceklipper/alice-helpers",
+    "author"       : "Alice Klipper <alice.klipper@yandex.com> (https://vk.com/alice.klipper)",
+    "license"      : "MIT",
+    "bugs"         : {
+        "url" : "https://github.com/aliceklipper/alice-helpers/issues"
+    },
+    "dependencies" : {
+        "glob"   : "^7.1.1",
+        "ncp"    : "^2.0.0",
+        "rimraf" : "^2.6.1"
+    }
+}
